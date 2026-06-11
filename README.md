@@ -71,8 +71,8 @@ The game features a multi-phase boss encounter with custom tracking behavior:
 ### Steps to Open
 1. **Clone the Repository:**
 ```bash
-   git clone [https://github.com/yourusername/StoneHearth.git](https://github.com/yourusername/StoneHearth.git);```
-
+   git clone [https://github.com/yourusername/StoneHearth.git](https://github.com/yourusername/StoneHearth.git)
+```
 2. **Open in Unity Hub:**
 
 * Launch Unity Hub.
