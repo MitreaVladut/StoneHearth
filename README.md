@@ -104,4 +104,4 @@ Classic Souls-like action combat loops
 ## 📄 License
 This project is private during active development. All rights reserved by Ashen Forge.
 
-Made with passion and struggle. Feel free to star the repo or follow development!
+Made with passion and struggle.
