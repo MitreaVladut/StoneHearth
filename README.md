@@ -1,6 +1,5 @@
 # StoneHearth 🪨🔥
 
-![StoneHearth](https://via.placeholder.com/800x400?text=StoneHearth+Banner)
 
 *A punishing 3D Souls-like Action RPG where you play as an ancient Golem Protector.*
 
